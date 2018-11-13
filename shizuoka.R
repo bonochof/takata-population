@@ -32,3 +32,6 @@ po.gotenba <- 87667
 po.susono <- 51751
 po.izunokuni <- 47220
 po.vec <- c(po.shizuoka, po.hamamatsu, po.numazu, po.fuji, po.iwata, po.sunto, po.mishima, po.gotenba, po.susono, po.izunokuni)
+po.sum <- sum(po.vec)
+po.p <- po.vec / po.sum
+chisq.test(takata.vec, p=po.p)
