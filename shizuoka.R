@@ -9,6 +9,10 @@
 #  8. Gotenba
 #  9. Susono
 # 10. Izunokuni
+#
+# Reference
+#   takata population: https://name.sijisuru.com/Area/cityfmap/高田?prefindex=22
+#   shizuoka population: http://toukei.pref.shizuoka.jp/jinkoushugyouhan/data/02-030/3010jinkou.html
 
 takata.shizuoka <- 870
 takata.hamamatsu <- 690
