@@ -7,6 +7,19 @@ Reference:
 * [Takata population](https://name.sijisuru.com/Area/cityfmap/高田?prefindex=22)
 * [Shizuoka population](http://toukei.pref.shizuoka.jp/jinkoushugyouhan/data/02-030/3010jinkou.html)
 
+## Data
+Population data of
+* Shizuoka
+* Hamamatsu
+* Numazu
+* Fuji
+* Iwata
+* Sunto
+* Mishima
+* Gotenba
+* Susono
+* Izunokuni
+
 ## Language
 R
 
